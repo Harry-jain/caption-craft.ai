@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Social Media Caption Generator
+# 🚀 caption-craft.ai : AI-Powered Social Media Caption Generator
 
 <div align="center">
 
