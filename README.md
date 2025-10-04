@@ -16,7 +16,7 @@
 
 ## 🎯 **Project Overview**
 
-The **AI-Powered Social Media Caption Generator** is a revolutionary full-stack web application that leverages state-of-the-art artificial intelligence to transform ordinary images into compelling social media content. Built with modern web technologies and advanced AI models, this application provides intelligent, platform-specific caption generation for Instagram, Facebook, and LinkedIn.
+The **caption-craft.ai : AI-Powered Social Media Caption Generator** is a revolutionary full-stack web application that leverages state-of-the-art artificial intelligence to transform ordinary images into compelling social media content. Built with modern web technologies and advanced AI models, this application provides intelligent, platform-specific caption generation for Instagram, Facebook, and LinkedIn.
 
 ### 🌟 **Why This Project Matters**
 
