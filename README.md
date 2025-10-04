@@ -497,6 +497,6 @@ uvicorn main:app --host 0.0.0.0 --port 8001 --reload
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the AI Caption Generator Team</p>
+  <p>Made with ❤️ by Harsh Jain</p>
   <p>⭐ Star this repo if you found it helpful!</p>
 </div>
